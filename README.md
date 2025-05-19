@@ -30,5 +30,5 @@ Deloitte DeductAI is a prototype tax analysis platform that automates the extrac
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/deloitte-deductai.git
+git clone https://github.com/ibrahimsheriiff/deloitte-deductai.git
 cd deloitte-deductai
