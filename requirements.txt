@@ -1,8 +1,6 @@
---only-binary=pillow
-pillow==9.4.0
-
 streamlit==1.24.1
 pandas==2.1.4
 pdfplumber==0.11.6
 openpyxl==3.1.2
+pillow==10.3.0
 numpy==1.26.4
